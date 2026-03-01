@@ -1,10 +1,10 @@
 
 # Tiny Tapeout project information
 project:
-  title:        ""      Pink Hearts
-  author:       ""      Anabelle Baxter
-  discord:      ""      tacobell4617
-  description:  ""      modified the original stripes Verilog simulation to do columns of hearts because why not, its cute
+  title:        "Pink Hearts"
+  author:       "Anabelle Baxter"
+  discord:      "tacobell4617"
+  description:  "modified the original stripes Verilog simulation to do columns of hearts because why not, its cute"
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
 
