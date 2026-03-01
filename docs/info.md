@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The project I have created is Verilog created in VGA Playground that animates columns of pink hearts that transition on and off the screen.
 
 ## How to test
 
-Explain how to use your project
+Test by running the simulation and looking at it
 
 ## External hardware
 
